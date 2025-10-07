@@ -1,0 +1,5 @@
+{
+  "name": "AI photo builder",
+  "description": "An AI-powered photo assistant to generate new images from text prompts or edit existing images with intuitive instructions. Features include aspect ratio control for new creations and easy downloading of results.",
+  "requestFramePermissions": []
+}
